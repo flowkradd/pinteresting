@@ -14,3 +14,5 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+ssh-add id_rsa
+ssh-add id_rsa.pub
