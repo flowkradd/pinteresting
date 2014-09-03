@@ -84,5 +84,5 @@ Rails.application.configure do
   config.action_mailer.default_url_options = { :host => 'http://tims-pinteresting.herokuapp.com' }
   # required for heroku 
   #note to set this to your actual host
-end
+
 end
